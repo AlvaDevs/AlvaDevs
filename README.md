@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200">
-    <h1 align="center"><img src="http://clipart-library.com/images/8ixKaobip.gif" width="40" height="40"> Hi, I'm Alvaro Alvarez! <img src="http://clipart-library.com/images/6iypypAin.gif" width="40" height="40"></h1>
+    <h1 align="center"><img src="http://clipart-library.com/images/8ixKaobip.gif" width="40" height="40"> Hi, I'm Álvaro Álvarez! <img src="http://clipart-library.com/images/6iypypAin.gif" width="40" height="40"></h1>
     <h3 align="center">
         I'm a computer and systems engineering student at the <a href="https://www.utb.edu.co/">UTB</a>."
     </h3>
