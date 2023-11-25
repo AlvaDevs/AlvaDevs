@@ -21,11 +21,11 @@
 
 ### 🧑‍💻 About Me 🧑‍💻 :
 
-- 🌱 Currently learning **JS, React.js, MySQL, C++**
+- 🌱 Currently learning **C++, Rust, WebAssembly**
 
 - 📧 How to reach me **aalvarez.contact@icloud.com**
 
-- 🐕 Proud father of two: **Atticus**🐾 and **King**👑
+- 🐕 Proud father of two: **Atticus**🐾 and **Kira**👑
 
 <div align="left">
     <h3>🧰⚒️ Lenguages and Tools</h3>
