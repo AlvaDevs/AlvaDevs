@@ -11,12 +11,13 @@
 <br>
 
 <div align="center">
+    # 💫 About Me:
+    
+    🔭 I’m currently working on **social network for readers** 📚
 
-   🔭 I’m currently working on **social network for readers** 📚
+    🪴 I'm currently learning **Flutter & Dart**
 
-   🪴 I'm currently learning **Flutter & Dart**
-
-   ⚡ Fun fact **Did you know? The first computer bug was an actual bug! 🐛💻**
+    ⚡ Fun fact **Did you know? The first computer bug was an actual bug! 🐛💻**
 
 </div>
 
