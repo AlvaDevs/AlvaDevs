@@ -6,7 +6,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=700&size=30&duration=3990&pause=500&color=8338EC&width=435&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Alvaro+Alvarez">
 </h1>
 
----
 <h3 align="center">A passionate systems engineering student from Colombia CO</h3>
 
 <br>
