@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200">
-    <h1 align="center"><img src="http://clipart-library.com/images/8ixKaobip.gif" width="40" height="40"> Hi, I'm Álvaro Álvarez! <img src="http://clipart-library.com/images/6iypypAin.gif" width="40" height="40"></h1>
+    <img src="http://clipart-library.com/images/8ixKaobip.gif" width="40" height="40"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=700&size=30&duration=3990&pause=500&color=8338EC&width=435&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Alvaro+Alvarez)](https://git.io/typing-svg) <img src="http://clipart-library.com/images/6iypypAin.gif" width="40" height="40">
     <h3 align="center">
         I'm a computer and systems engineering student at the <a href="https://www.utb.edu.co/">UTB</a>."
     </h3>
